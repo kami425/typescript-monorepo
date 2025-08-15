@@ -1,0 +1,5 @@
+packages:
+  # executable/launchable applications
+  - 'apps/*'
+  # all modules in subdirs of modules/ and components/
+  - 'modules/*'
